@@ -4,7 +4,7 @@ class NotificationManager:
     #This class is responsible for sending notifications with the deal flight details.
     def __init__(self):
         self.my_email = "akvilary@yahoo.com"
-        self.password = "mmzvgzcpojuuopya"
+        self.password = "SUPERSECRET"
         self.to_email = "a.mathgame.s@gmail.com"
         self.subject = "Lowest prices for flights"
 
