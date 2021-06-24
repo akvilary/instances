@@ -4,7 +4,7 @@ params_set = {
     'lat': 55.030498,
     'lon': 82.977459,
     'exclude': 'current,minutely,daily,alerts',
-    'appid': '48316d7c73422506081bbbd6b921876e',
+    'appid': 'SUPERSECRET',
 
 }
 
